@@ -16,6 +16,8 @@ workshop material (mostly notebooks)
 
 ### advanced examples
 
-- covarying radial velocity / expansion velocity
+- understanding outputs
+- understanding input parameters
+  - covarying radial velocity / expansion velocity
+  - constrain line ratios
 - try different line models
-- constrain line ratios
