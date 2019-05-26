@@ -4,6 +4,7 @@ workshop material (mostly notebooks)
 ## contents
 
 ### introduction to Jupyter
+[orcs-basics notebook](orcs-basics.ipynb)
 
 **goal**: extract and fit a spectrum from a SITELLE cube of data
 
@@ -14,7 +15,11 @@ workshop material (mostly notebooks)
 - extract the spectrum
 - fit the spectrum
 
-### advanced examples
+
+### intermediate examples
+[orcs-intermediate notebook](orcs-intermediate.ipynb)
+
+**goal**: make a fit with dependant parameters (aka *covarying* parameters)
 
 - understanding outputs
 - understanding input parameters
